@@ -3,7 +3,7 @@
 
 The auto-claiming tool is a Chrome web browser extension that allows Gamisodes NFT holders to auto-transfer their Gamisodes NFTs to their Dapper wallet (vs claiming each NFT one at a time).  The tool adds a "Claim All" button to the Gamisodes NFT viewer to allow for an easy way to get all of your NFTs into your wallet (see screenshot).
 
-**IMPORTANT: If you transfer a large number of your Gamisodes NFTs to your Dapper wallet (e.g., 100's) the Gamisodes NFT Viewer (gamisodes.mint.store) will not display your NFTs held by your Dapper wallet. Gamisodes will be rolling out a new NFT Viewer solution in the near future. In the meantime, you will still be able to view your claimed Gamisodes NFTs in your Dapper wallet.
+**IMPORTANT: If you transfer a large number of your Gamisodes NFTs to your Dapper wallet (e.g., 100's) the Gamisodes NFT Viewer (gamisodes.mint.store) will not display your NFTs held by your Dapper wallet. Gamisodes will be rolling out a new NFT Viewer solution in the near future. In the meantime, you will still be able to view your claimed Gamisodes NFTs in your Dapper wallet.**
 
 <img src="https://github.com/jasonhamilton/gamisodes-bulk-claim-tool/raw/main/img/bulk_claim_button.png?raw=true" width="500">
 
