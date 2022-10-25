@@ -1,9 +1,9 @@
 
 # What is this?
 
-The bulk claiming tool is a Chrome extension that allows Gamisodes NFT holders to bulk transfer their assets to their Dapper wallet in bulk (vs clicking one at a time).  The tool adds a "Claim All" button to the Gamisodes NFT viewer to allow for an easy way to get all of your assets into your wallet (see screenshot).
+The auto-claiming tool is a Chrome web browser extension that allows Gamisodes NFT holders to auto-transfer their Gamisodes NFTs to their Dapper wallet (vs claiming each NFT one at a time).  The tool adds a "Claim All" button to the Gamisodes NFT viewer to allow for an easy way to get all of your NFTs into your wallet (see screenshot).
 
-IMPORTANT: If you transfer a large number of your Gamisodes NFTs to your Dapper wallet (e.g., 100's) the Gamisodes NFT Viewer (gamisodes.mint.store) will not display your NFTs held by your Dapper wallet. Gamisodes will be rolling out a new NFT Viewer solution in the near future.
+IMPORTANT: If you transfer a large number of your Gamisodes NFTs to your Dapper wallet (e.g., 100's) the Gamisodes NFT Viewer (gamisodes.mint.store) will not display your NFTs held by your Dapper wallet. Gamisodes will be rolling out a new NFT Viewer solution in the near future. In the meantime, you will still be able to view your claimed Gamisodes NFTs in your Dapper wallet.
 
 <img src="https://github.com/jasonhamilton/gamisodes-bulk-claim-tool/raw/main/img/bulk_claim_button.png?raw=true" width="500">
 
@@ -11,10 +11,10 @@ IMPORTANT: If you transfer a large number of your Gamisodes NFTs to your Dapper 
 
 # Installation
 
-Before installation make sure you have the latest version of Chrome installed and then download this zip file: https://github.com/Gamisodes/gamisodes-bulk-claim-tool/archive/refs/heads/main.zip
+Before installing the Chrome extension, make sure you have the latest version of Chrome web browser installed. Then, download this zip file: https://github.com/Gamisodes/gamisodes-bulk-claim-tool/archive/refs/heads/main.zip
 
 1) Unzip the zip file
-2) In Chrome, navigate to 'chrome://extensions'
+2) In Chrome, navigate to 'chrome://extensions' (type or copy it into chrome like you're visiting a website)
 3) Enable developer mode
 4) Click "Load Unpacked"
 5) Where you unzipped the downloaded file, select the folder named "ChromeExtension"
@@ -27,13 +27,16 @@ That's it!
 
 # Usage
 
-Navigate to the main page of the Gamisodes NFT viewer and use the "Claim All" button to handle bulk claiming.  
+1) Login to your Gamisodes NFT Viewer
+2) Navigate to the main page of your Gamisodes NFT viewer
+3) Ensure your Dapper wallet is connected  
+4) Click the "Claim All" button to initiate the auto-claiming process  
 
 
 # FAQ
 
-**Why is the button not showing up?** If the button does not show up try refreshing the page.
+**Why is the button not showing up?** If the "Claim All" button does not show up, try refreshing the page.
 
-**Can I do this from my mobile phone?**  No, you must use the desktop version of Chrome for the plugin to work.
+**Can I do this from my mobile phone?**  No, you must use the desktop version of the Chrome web browser for the plugin to work.
 
-**Is this safe?** Yes; the code is fully open-source and has been audited to ensure no funny stuff.  Make sure to download the code directly from this repository. 
+**Is this safe?** Yes; the code is fully open-source and has been audited to ensure no funny stuff.  Make sure to download the code directly from Gamisodes' GitHub: https://github.com/Gamisodes/gamisodes-bulk-claim-tool/archive/refs/heads/main.zip  
