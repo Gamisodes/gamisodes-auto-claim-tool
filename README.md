@@ -27,7 +27,7 @@ That's it!
 
 # Usage
 
-1) Login to your Gamisodes NFT Viewer
+1) Login to your Gamisodes NFT Viewer (gamisodes.mint.store)
 2) Navigate to the main page of your Gamisodes NFT viewer
 3) Ensure your Dapper wallet is connected  
 4) Click the "Claim All" button to initiate the auto-claiming process  
