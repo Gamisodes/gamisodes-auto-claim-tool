@@ -31,6 +31,7 @@ That's it!
 2) Navigate to the main page of your Gamisodes NFT viewer
 3) Ensure your Dapper wallet is connected  
 4) Click the "Claim All" button to initiate the auto-claiming process  
+5) Leave the NFT Viewer page open and the auto-claiming tool will claim your collection one at a time
 
 
 # FAQ
