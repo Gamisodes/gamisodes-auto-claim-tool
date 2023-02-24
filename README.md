@@ -1,7 +1,7 @@
 
 # What is this?
 
-The auto-claiming tool is a Chrome web browser extension that allows Gamisodes collectors to auto-transfer their collectibles manufactured by Mint.Store to their Dapper digital collectibles wallet (instead of doing so one at a time).  The tool adds a "Claim All" button to the Mint.Store viewer to allow for an easy way to get all of your collectibles into your wallet and then also visible in your collection when you Sign In at Gamisides.com.
+The auto-claiming tool is a Chrome web browser extension that enables you to auto-transfer all your Gamisodes collectibles manufactured by Mint.Store (Gadget Trading Cards, VIP Club Cards, Mission: Singapore & Mission: Transylvania Cards) to their Dapper digital collectibles wallet - instead of doing so one at a time.  In other words, this tool adds a "Claim All" button to the Mint.Store viewer to enable an easy way to move all your collectibles into your wallet, which also makes them visible within your collection when you Sign In at Gamisides.com.
 
 **IMPORTANT: If you transfer a large number of Mint.Store collectibles to your Dapper wallet (e.g., 100's) the Mint.Store Viewer (gamisodes.mint.store) may no longer display the collectibles that were transferred to your wallet. However, the Gamisodes.com viewer will display them.**
 
