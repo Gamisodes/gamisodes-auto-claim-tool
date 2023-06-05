@@ -5,9 +5,9 @@ let walletInfo = null;
 
 // Inject "Claim All" Button And Message Area
 var intervalId = window.setInterval(function () {
-  // els = document.getElementsByClassName("style_collectiblesAmount__f4HNL");
-  els = document.getElementsByClassName("style_tabsContainer__3l1uy");
+  els = document.querySelectorAll("[class*='style_tabsContainer']");
   button = document.getElementById("injected-button");
+
   console.log("Attempting to inject bulk claim button");
   if (els && els.length > 0 && button == null) {
     el = els[1];
